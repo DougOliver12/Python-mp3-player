@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Mp3 Player po Douglas Magalhães de Oliveira
+Mp3 Player por Douglas Magalhães de Oliveira
 
 """ 
 
